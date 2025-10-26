@@ -1,0 +1,1 @@
+<h1>This is the blade that that simply call as hoome page in route where i just have to put the name of the blade file instaed in any controller route.<h2>

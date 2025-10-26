@@ -1,0 +1,1 @@
+<h1>Calling View using controller {{$name}}</h2>
