@@ -15,5 +15,6 @@ class UserController extends Controller
    }
    function adminLogin(){
     return view('admin.login');
+    exit;
    }
 }
