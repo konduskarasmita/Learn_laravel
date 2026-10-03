@@ -1,1 +1,8 @@
-<h1>This is the blade that that simply call as hoome page in route where i just have to put the name of the blade file instaed in any controller route.<h2>
+<h1>{{__('welcome.heading')}}</h1>
+
+<h1>{{__('welcome.subheading')}}</h1>
+
+
+<a href="/user">{{__('welcome.User')}}</a>
+<a href="/welcom">{{__('welcome.welcom')}}</a>
+<a href="/login">{{__('welcome.login')}}</a>
