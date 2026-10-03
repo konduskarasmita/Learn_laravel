@@ -6,3 +6,4 @@
 <a href="/user">{{__('welcome.User')}}</a>
 <a href="/welcom">{{__('welcome.welcom')}}</a>
 <a href="/login">{{__('welcome.login')}}</a>
+<a href="/login">{{__('welcome.login4567')}}</a>
